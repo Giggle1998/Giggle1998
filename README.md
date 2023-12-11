@@ -48,7 +48,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giggle1998&show_icons=true&theme=radical)
-![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={rlvy98@naver.com})](https://solved.ac/{rlvy98@naver.com})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlvy98)](https://solved.ac/rlvy98)
 
 
 <!--
