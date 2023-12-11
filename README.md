@@ -47,6 +47,11 @@
 </div>
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giggle1998&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giggle1998)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={rlvy98})](https://solved.ac/{rlvy98})
+
 
 <!--
 **Giggle1998/Giggle1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
